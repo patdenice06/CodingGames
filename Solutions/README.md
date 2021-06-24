@@ -1,2 +1,1 @@
-# codingame
-My Java codes to resolve some CodinGame challenges
+My CodingGames solutions in Java
